@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    {"source": "/(.*)", "destination": "https://even-triangular-somersault.glitch.me/$1"}
+  ]
+}
